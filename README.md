@@ -1,4 +1,4 @@
 # PATRON
-A new work in progres. A CryptNote based Crypto Currency Called Patron. It;s Purpose is to provide a crypto coin to tip, reward, give gratuities, donate and pay others.
-PATRON  - A Quick Discreet Way to Patronize, Reward, Support, Fund, Donate and Pay peers, Organizations and Businesses
+A new work in progres. A CryptoNote based Crypto Currency Called Patron. It's Purpose is to provide a crypto coin to tip, reward, Support, Fund, Donate Gratuities, Donate and Pay others.
+PATRON  - A Quick Discreet Way to Patronize, Reward, Support, Fund, Donate and Pay Peers, Organizations and Businesses
 Please Stand by. enetworkassociates@gmail.com
